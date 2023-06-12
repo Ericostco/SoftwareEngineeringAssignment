@@ -1,2 +1,2 @@
 # SoftwareEngineeringAssignment
-Introduction to Software Engineering Assignment 2-git practice
+Introduction to Software Engineering Assignment 2-git 
